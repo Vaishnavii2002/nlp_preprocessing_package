@@ -4,7 +4,7 @@ This is created by Vaishnavi
 
 Install
 
-'pip install git+ssh://git@github.com/Vaishnavii2002/nlp_preprocessing_package.git'
+'pip install git+ssh://github.com/Vaishnavii2002/nlp_preprocessing_package.git'
 
 Uninstall
 
