@@ -2,8 +2,10 @@
 
 This is created by Vaishnavi
 
-Install:
+Install
+
 'pip install git+ssh://git@github.com/Vaishnavii2002/nlp_preprocessing_package.git'
 
-Uninstall:
+Uninstall
+
 'pip uninstall nlp_preprocessing_package'
